@@ -1,7 +1,7 @@
   <body style="background-color:#708090;">
 </body>
 
-![58](./img_readme/58.jpg)
+![58](./58.jpg)
 ---
 ---
 # **Reconocimiento Facial**
