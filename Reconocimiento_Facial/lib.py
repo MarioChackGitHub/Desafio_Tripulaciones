@@ -2,8 +2,7 @@ import cv2
 import os
 import imutils
 
-from config import PERSON_1, PERSON_2, PERSON_3, PERSON_4, PERSON_5, PERSON_6, WIDTH, SCALE_FACTOR, MIN_NEIGHBORS, PIXEL, NUM_FRAMES
-
+import config 
 
 def generar_frames(PERSON):
 
