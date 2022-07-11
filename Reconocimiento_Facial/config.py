@@ -1,16 +1,17 @@
 import sys
 
+
 sys.path.append(".")
 
 
 # Usuarios registrados
 
-PERSON_1 = "Fran1"
-PERSON_2 = "Selu"
-PERSON_3 = "Mario"
-PERSON_4 = "Kike"
-PERSON_5 = "Nani"
-PERSON_6 = "Ouissan"
+PERSON = {"PERSON_1" : "Fran1",
+"PERSON_2" : "Selu",
+"PERSON_3" : "Mario",
+"PERSON_4" : "Kike",
+"PERSON_5" : "Nani",
+"PERSON_6" : "Ouissan"}
 
 ################################################
 
